@@ -1,0 +1,21 @@
+{
+  "name": "angkorjs",
+  "version": "1.0.0",
+  "description": "testing session",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "author": "sovathana <sovathana.phat@gmail.com>",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@gitlab.com/sovathana-phat/Angkorjs.git"
+  },
+  "bugs": {
+    "url": "https://gitlab.com/sovathana-phat/Angkorjs/issues"
+  },
+  "homepage": "https://gitlab.com/sovathana-phat/Angkorjs#README"
+}
+
